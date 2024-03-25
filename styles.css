@@ -1,0 +1,75 @@
+h1{
+    color: red;
+}
+
+p{
+    color: green;
+    background-color: #333333;
+}
+
+.cihuyy{
+    display: none;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: blue;
+}
+
+.cihuy {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    display: inline-block;
+    color: blue;
+}
+
+#cihuykecil {
+    position: static;
+    display: inline;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    background-color: red;
+    color: blue;
+}
+
+/*cihuyyyyy*/
+
+#kaki{
+    color: #333333;
+    text-align: center;
+}
+
+#meta-sekarang {
+    color: red;
+}
+
+.kotak{
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    height: 300px;
+    background-color: wheat;
+    border: 1px solid #333333;
+    margin: 2px;
+}
+
+.p1{
+    position: static;
+    display: inline;
+}
+.p2{
+    position: relative;
+    display: inline;
+}
+.p3{
+    position: absolute;
+    display: inline;
+}
+.p4{
+    position: fixed;
+    display: inline;
+}
+.p5{
+    position: sticky;
+    display: inline;
+}
